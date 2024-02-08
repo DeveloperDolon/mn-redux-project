@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "John Doe",
+    "price": 5000,
+    "time": "2 weeks",
+    "status": "Ongoing"
+  },
+  {
+    "id": 2,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Alice Johnson",
+    "price": 8000,
+    "time": "1 month",
+    "status": "Revision"
+  },
+  {
+    "id": 3,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Michael Smith",
+    "price": 3000,
+    "time": "3 weeks",
+    "status": "Waiting"
+  },
+  {
+    "id": 4,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Sarah Johnson",
+    "price": 7000,
+    "time": "2 months",
+    "status": "Delivered"
+  },
+  {
+    "id": 5,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Robert Miller",
+    "price": 6000,
+    "time": "1.5 months",
+    "status": "Completed"
+  },
+  {
+    "id": 6,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Emma Wilson",
+    "price": 4000,
+    "time": "4 weeks",
+    "status": "Canceled"
+  },
+  {
+    "id": 7,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "William Davis",
+    "price": 5500,
+    "time": "3.5 weeks",
+    "status": "Ongoing"
+  },
+  {
+    "id": 8,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Olivia Brown",
+    "price": 9000,
+    "time": "2.5 months",
+    "status": "Revision"
+  },
+  {
+    "id": 9,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "James Lee",
+    "price": 2000,
+    "time": "5 weeks",
+    "status": "Waiting"
+  },
+  {
+    "id": 10,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Sophia Garcia",
+    "price": 7500,
+    "time": "2.2 months",
+    "status": "Delivered"
+  },
+  {
+    "id": 11,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Mia Martinez",
+    "price": 6200,
+    "time": "1.8 months",
+    "status": "Completed"
+  },
+  {
+    "id": 12,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "David Rodriguez",
+    "price": 3800,
+    "time": "6 weeks",
+    "status": "Canceled"
+  },
+  {
+    "id": 13,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Ava Hernandez",
+    "price": 4300,
+    "time": "3.2 weeks",
+    "status": "Ongoing"
+  },
+  {
+    "id": 14,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Ethan Perez",
+    "price": 8100,
+    "time": "1.3 months",
+    "status": "Revision"
+  },
+  {
+    "id": 15,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Chloe Flores",
+    "price": 2900,
+    "time": "7 weeks",
+    "status": "Waiting"
+  },
+  {
+    "id": 16,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Daniel Scott",
+    "price": 6700,
+    "time": "2.3 months",
+    "status": "Delivered"
+  },
+  {
+    "id": 17,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Emily Turner",
+    "price": 5900,
+    "time": "1.6 months",
+    "status": "Completed"
+  },
+  {
+    "id": 18,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Benjamin King",
+    "price": 4200,
+    "time": "5.5 weeks",
+    "status": "Canceled"
+  },
+  {
+    "id": 19,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Madison Cooper",
+    "price": 4800,
+    "time": "4 weeks",
+    "status": "Ongoing"
+  },
+  {
+    "id": 20,
+    "projectImage": "https://i.ibb.co/zbT9jKG/4523411-2394481-1.jpg",
+    "clientImage": "https://i.ibb.co/h1c8YrG/FB-IMG-1698300210152.jpg",
+    "clientName": "Jackson Stewart",
+    "price": 8800,
+    "time": "2.8 months",
+    "status": "Revision"
+  },
+
+  {
+    "title": "Creative Logo Design",
+    "description": "Dive into the realm of creative logo design, where imagination meets branding. This exploration guides you through the intricacies of crafting logos that tell compelling stories. Uncover the artistry behind memorable symbols and the psychology of color choices. Learn to balance simplicity and complexity to create logos that resonate with target audiences. Whether you're a novice or seasoned designer, this journey promises insights into the evolving landscape of logo design, offering inspiration and techniques to elevate your skills. Join us in shaping visual identities that leave a lasting imprint in the competitive world of graphic design.",
+    "tags": ["logo", "graphic", "branding", "design", "creativity", "identity"],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "Mastering the Art of Typography",
+    "description": "Typography is more than just letters; it's a powerful design element that shapes communication. Embark on a comprehensive journey to master the art of typography, exploring fonts, spacing, and hierarchy. Discover the impact of typography on conveying messages and influencing emotions. This in-depth exploration covers traditional and modern typographic principles, equipping you with the skills to create visually stunning designs. Whether you're designing for print or digital media, this guide promises to enhance your understanding and application of typography in the dynamic world of graphic design.",
+    "tags": [
+      "graphic",
+      "typography",
+      "design",
+      "creative",
+      "typeface",
+      "communication"
+    ],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "Banner Magic: Captivating Designs for Every Occasion",
+    "description": "Unleash your creativity in banner design and captivate audiences on every occasion. This comprehensive guide explores the principles of effective banner design, covering composition, color theory, and message clarity. Whether you're creating banners for social media, events, or advertising, this journey offers practical tips and inspirational ideas. Dive into the world of dynamic visuals and discover how to balance eye-catching elements with a clear call to action. Elevate your banner design skills and make a lasting impression in the vibrant landscape of graphic design.",
+    "tags": [
+      "graphic,",
+      "banner,",
+      "design,",
+      "creative,",
+      "advertising,",
+      "visuals,"
+    ],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "Colorful Illustrations: Bringing Ideas to Life",
+    "description": "Explore the enchanting world of colorful illustrations and learn the art of bringing ideas to life through vibrant visuals. This guide takes you on a journey through various illustration styles, techniques, and digital tools. Discover the psychology of colors and their impact on conveying emotions. Whether you're an aspiring illustrator or a seasoned designer, this exploration promises to ignite your creativity and provide practical insights for creating stunning and expressive illustrations. Join us in unlocking the potential of color and illustration in the dynamic field of graphic design.",
+    "tags": [
+      "graphic,",
+      "illustration,",
+      "design,",
+      "creative,",
+      "color,",
+      "digital, art"
+    ],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "Logo Redesign: Transforming Brands with Modern Concepts",
+    "description": "Embark on a transformative journey in logo redesign, where modern concepts breathe new life into established brands. This guide delves into the strategic and creative aspects of revamping logos, exploring current design trends and brand evolution. Learn how to maintain brand identity while adapting to changing market dynamics. Whether you're a brand strategist or a graphic designer, this exploration provides valuable insights into the delicate balance between tradition and innovation in logo redesign. Join us in reshaping the visual narratives of iconic brands in the dynamic landscape of graphic design.",
+    "tags": [
+      "logo",
+      "graphic",
+      "design",
+      "branding",
+      "innovation",
+      "brand identity"
+    ],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "The Power of Minimalism in Graphic Design",
+    "description": "Discover the profound impact of minimalism in graphic design, where simplicity becomes a powerful tool for visual communication. This guide explores the principles of minimalist design, focusing on clarity, balance, and the elimination of unnecessary elements. Dive into case studies and practical tips to master the art of 'less is more.' Whether you're a minimalist enthusiast or a designer seeking timeless aesthetics, this exploration promises to refine your skills and enhance your understanding of the impactful role minimalism plays in the ever-evolving world of graphic design.",
+    "tags": [
+      "graphic",
+      "design",
+      "minimalism",
+      "creative",
+      "simplicity",
+      "visual communication"
+    ],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "Creating Visually Stunning Social Media Graphics",
+    "description": "Navigate the dynamic world of social media graphics and craft visually stunning designs that capture attention in the digital landscape. This comprehensive guide explores the nuances of creating graphics for various social media platforms, covering design trends, dimensions, and engagement strategies. Whether you're a social media manager or a graphic designer, this journey offers practical insights and creative inspiration. Dive into the realm of viral visuals and discover how to leverage design elements for maximum impact in the fast-paced world of social media. Elevate your social media graphic design skills and make a lasting impression.",
+    "tags": [
+      "graphic",
+      "social media",
+      "design",
+      "creative",
+      "digital marketing",
+      "visuals"
+    ],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "Digital Artistry: Exploring New Dimensions in Graphic Design",
+    "description": "Embark on an exhilarating exploration of digital artistry, where traditional design meets cutting-edge technology. This guide covers digital tools, techniques, and trends that redefine graphic design in the digital age. From digital painting to 3D modeling, discover the limitless possibilities of creating visually stunning designs. Whether you're a digital art enthusiast or a graphic designer embracing new dimensions, this journey promises to inspire and equip you with the skills to thrive in the ever-evolving landscape of graphic design.",
+    "tags": [
+      "graphic",
+      "digital art",
+      "design",
+      "creative",
+      "technology",
+      "digital tools"
+    ],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "Mastering the Art of Poster Design",
+    "description": "Uncover the secrets of impactful poster design and learn how to create visually stunning visuals that command attention. This comprehensive guide takes you through the principles of composition, color theory, and typography specific to poster design. Whether you're designing event posters, promotional materials, or artistic prints, this journey offers practical insights and creative strategies. Dive into the world of large-format design and discover how to leverage space and visuals to convey messages effectively. Elevate your poster design skills and make a memorable impact in the dynamic landscape of graphic design.",
+    "tags": [
+      "graphic",
+      "poster",
+      "design",
+      "creative",
+      "composition",
+      "typography"
+    ],
+    "industry": "Graphic Design"
+  },
+  {
+    "title": "Infographics: Communicating Information Through Design",
+    "description": "Unlock the power of infographics in communicating complex information through visually compelling design. This guide explores the art and science of creating effective infographics, covering data visualization, storytelling, and design principles. Whether you're a data analyst or a graphic designer, this journey provides valuable insights into transforming data into engaging visuals. Dive into the world of infographics and discover how to convey information with clarity, creativity, and impact. Join us in mastering the art of visual communication through infographics in the dynamic field of graphic design.",
+    "tags": [
+      "graphic",
+      "infographics",
+      "design",
+      "creative",
+      "data visualization",
+      "communication"
+    ],
+    "industry": "Graphic Design"
+  }
+]
